@@ -16,6 +16,7 @@ A Flask-based web application that uses machine learning to predict the likeliho
 - [Frontend Components](#frontend-components)
 - [API Endpoints](#api-endpoints)
 - [Future Improvements](#future-improvements)
+- [License](#license)
 
 ## Overview
 
@@ -238,3 +239,7 @@ The application uses a Gaussian Naive Bayes classifier for heart disease predict
 - **Export Results**: Allow users to download analysis results in various formats.
 - **Batch Processing**: Support for processing multiple files in batch mode.
 - **User Authentication**: Add user accounts to save and compare previous analyses.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
