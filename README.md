@@ -2,11 +2,11 @@
 
 A Flask-based web application that uses machine learning to predict the likelihood of heart disease from patient data. The application allows users to upload CSV files containing patient information, processes the data using a Gaussian Naive Bayes model, and provides detailed analysis results including prediction probabilities, accuracy metrics, and feature correlations.
 
-## Contributors
-- [Contributor 1](https://github.com/heytanix)
-- [Contributor 2](https://github.com/Sundareshwar-S)
-- [Contributor 3](https://github.com/Likhith257)
-- [Contributor 4](https://github.com/Saumitra-171)
+## Contributors (Under MIT License)
+- [Thanish Chinnappa KC](https://github.com/heytanix)
+- [Sundareshwar S](https://github.com/Sundareshwar-S)
+- [Likhith V](https://github.com/Likhith257)
+- [Saumitra P](https://github.com/Saumitra-171)
 
 ## Table of Contents
 
