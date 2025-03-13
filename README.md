@@ -1,4 +1,4 @@
-# Heart Disease Prediction Web Application
+# Heart Disease Prediction Model - Web Application
 
 A Flask-based web application that uses machine learning to predict the likelihood of heart disease from patient data. The application allows users to upload CSV files containing patient information, processes the data using a Gaussian Naive Bayes model, and provides detailed analysis results including prediction probabilities, accuracy metrics, and feature correlations.
 
